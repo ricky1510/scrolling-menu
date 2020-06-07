@@ -3,11 +3,11 @@ body {
 
 .container {
   width: 100%;
-  max-width: 400px;
+  max-width: 600px;
   margin-left: auto;
   margin-right: auto;
   background-color: #ddd;
-  height: 3000px; }
+  height: 6000px; }
 
 .img {
   width: 100%;
